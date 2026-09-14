@@ -1,0 +1,13 @@
+Data source: Twelve Data ON (primary) | Finnhub ON (fallback)
+========================================
+BOT BERHASIL DIJALANKAN!
+Waktu: 04/09/2026, 12.37.59
+========================================
+📰 [fastbull] starting cache warmer (5 min interval) ...
+Waiting 25 detik sebelum mulai polling (avoid 409)...
+Memulai Telegram polling sekarang
+User baru: Zay (ID: 1284065227)
+User baru: Zay (ID: 1284065227)
+ℹ️  [05:38:25.947] [candles] [twelvedata] 100 candles xauusd 1h
+ℹ️  [05:38:26.198] [candles] [twelvedata] 100 candles xauusd 1h
+ℹ️  [05:38:26.256] [candles] [twelvedata] 100 candles xauusd 1h
